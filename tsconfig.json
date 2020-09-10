@@ -1,0 +1,15 @@
+{
+"compilerOptions": {
+    "types": ["reflect-metadata"],
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "outDir": "./dist/"
+},
+"files": [
+    "di-container.ts",
+    "dependencies.ts",
+    "service.ts",
+    "main.ts"
+]
+}
